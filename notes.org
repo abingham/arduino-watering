@@ -1,0 +1,11 @@
+This is a simple plant-watering system using arduino to drive a small peristaltic pump.
+
+* Based on instructables design
+
+http://www.instructables.com/id/Automatically-water-your-small-indoor-plant-using-/
+
+* Calibration
+
+In the initial timing test, it took the pump *21 minutes* to move *1 liter* of
+water. The water moved through 5m of tubing with the pump in approx. the middle
+of the run.
